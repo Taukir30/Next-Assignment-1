@@ -10,8 +10,8 @@ All coding problem solutions (Problems 1 through 8) are implemented with strict 
 
 As part of the assignment, I have written technical blog posts explaining core TypeScript concepts. You can read them here:
 
-1. [**Type Aliases vs Interfaces in TypeScript**](./type-vs-interface.md)
+1. [**Type Aliases vs Interfaces in TypeScript**](./type_aliases_vs_interface.md)
 
-2. [**Access Modifiers in TypeScript OOP**](./access-modifiers.md)
+2. [**Access Modifiers in TypeScript OOP**](./oop_access_modifier_in_ts.md)
 
 *(Note: I have chosen the Type vs Interface and Access Modifiers topics for my two required blog submissions).*
